@@ -1,7 +1,8 @@
 streamlit
-numpy
 pandas
-matplotlib
 seaborn
-scikit-learn
-streamlit-option-menu
+matplotlib
+Pillow
+python-dateutil
+numpy
+wordcloud
